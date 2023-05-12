@@ -13,7 +13,7 @@ const AppBarComp = () => {
     const dispatch = useDispatch();
 
     const gotoGitHub=()=>{
-        var url = "https://github.com/";
+        var url = "https://github.com/jhavipul18/Container_Management_Tool/tree/main";
         window.open(url, "_blank");
     }
 
